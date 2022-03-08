@@ -10,6 +10,8 @@ public class CallingMethodsInSameClass
 		printOne();
 		printTwo();
 		printThree();
+		printfour();
+		printfive();
 	}
 
 	public static void printOne() {
